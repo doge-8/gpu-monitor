@@ -1,3 +1,1 @@
-apt install pip -y
-
-pip install pynvml
+apt install pip -y && pip install pynvml
